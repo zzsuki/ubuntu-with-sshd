@@ -1,4 +1,4 @@
-# 简单的ubuntu docker环境
+# Simple ubuntu docker environment
 
 docker file to build a simple dev container
 
